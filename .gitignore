@@ -1,0 +1,10 @@
+a
+beautiful.cpp
+test.cpp
+test_fps
+colors.cpp
+build/
+*.o
+*.exe
+*.log
+*.tmp
