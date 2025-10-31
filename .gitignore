@@ -4,6 +4,7 @@ test.cpp
 test_fps
 colors.cpp
 build/
+.vscode/
 *.o
 *.exe
 *.log
